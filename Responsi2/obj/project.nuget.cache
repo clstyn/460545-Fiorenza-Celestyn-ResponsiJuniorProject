@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdhgIDfEfx7SuNXWHi4h194awr4B62OzMAbN6qnn8+8fCwRQ1UlwfzZ2eRSbE09bCwIkXLxhTXpLnEokOB8wWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fiorenza Celestyn\\Documents\\Responsi2\\Responsi2\\Responsi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fiorenza Celestyn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fiorenza Celestyn\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fiorenza Celestyn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
